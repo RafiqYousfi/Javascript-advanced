@@ -8,7 +8,8 @@ const zoekKleur = prompt('Voer een kleur in:') || 'blauw';
 console.log('Gezochte kleur:', zoekKleur);
 
 // TODO: Check of de kleur in de array staat
-const gevonden =
-  /* jouw code hier */
+const gevonden = ['rood', 'groen', 'blauw'];
+const index = kleuren.findIndex(kleur => kleur === 'groen');
+console.log(index); // 1
 
   console.log('Kleur gevonden:', gevonden);

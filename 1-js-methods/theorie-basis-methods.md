@@ -22,7 +22,7 @@ Het `%` teken is de "modulo" operator. Het geeft de **rest** terug van een delin
 
 ```javascript
 5 % 2 = 1    // 5 gedeeld door 2 = 2 rest 1
-6 % 2 = 0    // 6 gedeeld door 2 = 3 rest 0  
+6 % 2 = 0    // 6 gedeeld door 2 = 3 rest 0
 7 % 2 = 1    // 7 gedeeld door 2 = 3 rest 1
 8 % 2 = 0    // 8 gedeeld door 2 = 4 rest 0
 ```
