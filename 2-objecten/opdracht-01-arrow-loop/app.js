@@ -1,6 +1,6 @@
 // Je gaat even oefenen met het gebruiken van een arrow function en de for/of loop. 
 
-// Maak een array genaamd 'marvels' en plaats hier 4 Marvel films in.
+const marvel = ['spiderman', 'ironman', 'venom', 'avengers'];
 
 // Maak een arrow function genaamd 'addMarvel'
 // In je functie voeg je een nieuwe Marvel film toe zonder dit zelf in de bovenstaande array toe te voegen
