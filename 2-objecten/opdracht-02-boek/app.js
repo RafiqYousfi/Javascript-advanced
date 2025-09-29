@@ -2,6 +2,19 @@
 
 // Het object moet de volgende properties bevatten:
 
+
+const book = {
+    title: "Harry Potter en de steen der wijzen",
+    author: "J.K. Rowling",
+    publishing: "Bloomsbury",
+    year: 1997,
+    sold: 10000001,
+    price: '$23.99',
+    drive: function() {
+      return "I'm driving";
+    }
+  };
+
 //     Titel: de titel van het boek (string)
 //     Auteur: de auteur van het boek (string)
 //     Uitgeverij: de uitgeverij van het boek (string)

@@ -1,8 +1,16 @@
-// Je gaat even oefenen met het gebruiken van een arrow function en de for/of loop. 
-
+// Array met Marvel-films
 const marvel = ['spiderman', 'ironman', 'venom', 'avengers'];
 
-// Maak een arrow function genaamd 'addMarvel'
-// In je functie voeg je een nieuwe Marvel film toe zonder dit zelf in de bovenstaande array toe te voegen
-// Roep de functie op (het klopt dat je nog niets ziet)
-// Loop met een for/of loop door de array en toon alle items in de array in je console
+// Arrow function die een nieuwe Marvel film toevoegt
+let addMarvel = () => {
+  // Voeg een nieuwe film toe aan de array
+  marvel.push('thor');
+};
+
+// Roep de functie aan
+addMarvel();
+
+// Loop door de array met een for/of loop en toon alles in de console
+for (const film of marvel) {
+  console.log(film);
+}
