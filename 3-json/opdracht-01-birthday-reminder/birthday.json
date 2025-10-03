@@ -1,0 +1,32 @@
+[
+    {
+      "naam": "Emma van Dijk",
+      "leeftijd": "20",
+       "image": "./image/persono6.jpg"
+    },
+    {
+      "naam": "Liam de Boer",
+      "leeftijd": "19",
+       "image": "./image/persoon5.jpeg"
+    },
+    {
+      "naam": "Sophie Jansen",
+      "leeftijd": "21",
+       "image": "./image/persoon4.jpeg"
+    },
+    {
+      "naam": "Daan Peters",
+      "leeftijd": "22",
+       "image": "./image/persoon3.jpeg"
+    },
+    {
+        "naam": "John Hoek",
+        "leeftijd": "22",
+         "image": "./image/persoon2.jpeg"
+      },
+      {
+        "naam": "Peter Scheef",
+        "leeftijd": "22",
+        "image": "./image/persoon1.jpeg"
+      }
+  ]
